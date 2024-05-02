@@ -1,4 +1,3 @@
-# Django_MuhAsrul
 # Nama : MUH.ASRUL
 # NIM : 220907501040
 # KELAS : D/22
