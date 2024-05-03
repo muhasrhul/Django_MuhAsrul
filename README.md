@@ -7,6 +7,8 @@
 ![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/Login.png?raw=true)
 ### Register Page
 ![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/Register.png?raw=true)
+### Navbar
+![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/HomePage.png?raw=true)
 ### Footer
 ![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/Footer.png?raw=true)
 ### CategoryProduk_Pakaian
