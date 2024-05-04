@@ -1,4 +1,6 @@
 # Eccomerce AsThrift Shop
+### Navigasi
+![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/Screenshot%20(454).png?raw=true)
 ### Home Page
 ![alt text](https://github.com/muhasrhul/Django_MuhAsrul/blob/main/ecom/Scrensoot/HomePage.png?raw=true)
 ### About Page
